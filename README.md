@@ -1,27 +1,25 @@
-# Codtech-Internship-Task-01-Logo-Design-Mockup
-This project involves creating a professional logo mockup with 2–3 unique design variations. The goal is to visually explore different concepts for branding by experimenting with layout, typography, iconography, and color schemes. The project emphasizes creativity, consistency, and alignment with brand identity principles.
+Codtech Internship Task 01 – Logo Design Mockup
+Project Overview
+This project involves creating a professional logo mockup with 2–3 unique design variations. The objective is to explore and present different concepts for branding by experimenting with layout, typography, iconography, and color schemes. The focus is on creativity, consistency, and alignment with brand identity principles.
 
-Tools Used:
+Tools Used
+Figma – For designing and presenting logo variations.
 
-Figma (for designing and presenting logo variations)
+Objectives
+Develop 2 to 3 distinct logo design concepts.
 
-Objectives:
+Showcase different interpretations of the same brand idea.
 
-Develop 2 to 3 distinct logo design concepts
+Ensure each logo is clear, scalable, and versatile across applications.
 
-Showcase different interpretations of the same brand idea
+Deliverable
+A Figma file containing all logo variations, presented in a mockup layout to simulate real-world usage (such as on business cards, websites, or app interfaces).
 
-Ensure clarity, scalability, and versatility in each design
-
-Deliverable:
-A Figma file containing all logo variations, presented on a mockup layout to simulate real-world usage (e.g., business cards, web headers, or app icons).
-
-Skills Applied:
-
+Skills Applied
 Visual design principles
 
 Typography and color theory
 
 Digital mockup presentation
 
-Figma proficiency
+Proficiency in Figma
